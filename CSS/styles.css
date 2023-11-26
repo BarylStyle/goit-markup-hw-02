@@ -127,6 +127,10 @@ button:hover {
     background-color: var(--first-color-text);
 }
 
-.footer-highlight {
-    color: var(--cloud)
+.logo-highlight {
+    color: var(--first-color-text)
+}
+
+.footer-logo {
+    color: var(--cloud);
 }
