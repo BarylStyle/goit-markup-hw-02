@@ -104,7 +104,7 @@ a:hover {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.02em;
 
 }
 
@@ -157,4 +157,16 @@ a:hover {
 .all:focus {
     color: var(--color-white);
     background-color: var(--Ocean);
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--SLATE);
+
+
+
+
+
 }
