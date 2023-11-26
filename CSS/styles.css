@@ -29,14 +29,16 @@ button {
     background-color: var(--iris);
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 button:hover {
     background-color: var(--Ocean);
 
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+
 
 .link {
     font-family: "Raleway", sans-serif;
@@ -133,4 +135,19 @@ button:hover {
 
 .footer-logo {
     color: #f4f4fd;
+}
+
+.all {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--color-white);
+    background-color: var(--iris);
+}
+
+.all:hover {
+    background-color: var(--Ocean);
+    cursor: pointer;
 }
