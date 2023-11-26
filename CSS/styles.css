@@ -40,7 +40,7 @@ a:hover {
 
 
 
-.link-logo {
+.link {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -145,7 +145,7 @@ a:hover {
     letter-spacing: 0.04em;
     color: var(--iris);
     background-color: var(--cloud);
-    cursor: pointer;
+
 }
 
 .all:hover {
@@ -157,4 +157,17 @@ a:hover {
 .all:focus {
     color: var(--color-white);
     background-color: var(--Ocean);
+}
+
+.link-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--second-color-text);
+    font-style: normal;
+
 }
