@@ -6,6 +6,7 @@
     --Ocean: #404BBF;
     --cloud: #F4F4FD;
     --SLATE: #434455;
+    --kolo4: #404bbf;
 
 }
 
@@ -176,9 +177,12 @@ a:hover {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--SLATE);
+}
 
+.list .link:hover {
+    color: var(--kolo4);
+}
 
-
-
-
+.list .link:active {
+    color: var(--kolo4);
 }
