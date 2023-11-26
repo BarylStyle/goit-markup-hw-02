@@ -152,3 +152,7 @@ a:hover {
     background-color: var(--Ocean);
     cursor: pointer;
 }
+
+.all:focus {
+    color: var(--color-white);
+}
