@@ -145,14 +145,16 @@ a:hover {
     letter-spacing: 0.04em;
     color: var(--iris);
     background-color: var(--cloud);
+    cursor: pointer;
 }
 
 .all:hover {
     color: #FFFFFF;
     background-color: var(--Ocean);
-    cursor: pointer;
+
 }
 
 .all:focus {
     color: var(--color-white);
+    background-color: var(--Ocean);
 }
