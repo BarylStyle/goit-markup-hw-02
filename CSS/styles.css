@@ -1,6 +1,11 @@
 :root {
     --first-color-text: #2E2F42;
     --second-color-text: #4D5AE5;
+    --color-white: #ffffff;
+    --iris: #4D5AE5;
+    --Ocean: #404BBF;
+    --cloud: #F4F4FD;
+    --SLATE: #434455;
 
 }
 
@@ -11,11 +16,25 @@ body {
 }
 
 header {
-    background-color: white;
+    background-color: var(--color-white);
 }
 
 a {
     text-decoration: none;
+}
+
+button {
+    color: var(--color-white);
+    background-color: var(--iris);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button:hover {
+    background-color: var(--Ocean);
+
 }
 
 .logo {
@@ -31,6 +50,67 @@ a {
 
 }
 
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--cloud);
+    font-style: normal;
+
+}
+
 .highlight {
     color: var(--second-color-text);
+}
+
+.navigation {
+    color: var(--first-color-text);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.navigation:hover {
+    color: var(--second-color-text);
+}
+
+.contact {
+    color: var(--SLATE);
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.contact:hover {
+    color: var(--Ocean)
+}
+
+.h3 {
+    color: var(--first-color-text);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.4px;
+
+}
+
+.p {
+    color: var(--first-color-text);
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+
+}
+
+.page-footer {
+    color: var(--cloud);
 }
