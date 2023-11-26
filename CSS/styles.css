@@ -200,3 +200,7 @@ a:hover {
 .list .link:active {
     color: var(--kolo4);
 }
+
+.link:active {
+    color: var(--Ocean)
+}
