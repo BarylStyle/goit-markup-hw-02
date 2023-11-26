@@ -46,7 +46,7 @@ button:hover {
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase;
-    color: var(--first-color-text);
+    color: var(--second-color-text);
     font-style: normal;
 
 
@@ -125,4 +125,8 @@ button:hover {
 
 .page-footer {
     background-color: var(--first-color-text);
+}
+
+.footer-highlight {
+    color: var(--cloud)
 }
