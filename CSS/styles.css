@@ -120,5 +120,9 @@ button:hover {
 }
 
 .span {
-    color: var(--first-color-text);
+    color: var(--cloud);
+}
+
+.page-footer {
+    background-color: var(--first-color-text);
 }
