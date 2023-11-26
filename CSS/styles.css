@@ -196,11 +196,3 @@ a:hover {
 .list .link:hover {
     color: var(--kolo4);
 }
-
-.list .link:active {
-    color: var(--kolo4);
-}
-
-.link:active {
-    color: var(--Ocean)
-}
