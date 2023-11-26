@@ -143,8 +143,8 @@ a:hover {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(--color-white);
-    background-color: var(--iris);
+    color: var(--iris);
+    background-color: var(--cloud);
 }
 
 .all:hover {
