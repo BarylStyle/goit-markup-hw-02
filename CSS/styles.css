@@ -88,10 +88,19 @@ a:hover {
 
 .contact {
     font-style: normal;
+    color: var(--SLATE);
 }
 
 .contact:hover {
-    color: var(--Ocean)
+    color: var(--Ocean);
+}
+
+.contakt-mail .link:hover {
+    color: var(--kolo4);
+}
+
+.contakt-mail .link:active {
+    color: var(--kolo4);
 }
 
 .heading {
