@@ -148,6 +148,7 @@ a:hover {
 }
 
 .all:hover {
+    color: #FFFFFF;
     background-color: var(--Ocean);
     cursor: pointer;
 }
