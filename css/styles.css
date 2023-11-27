@@ -97,6 +97,10 @@ a:hover {
     color: var(--Ocean);
 }
 
+.contakt-mail .link {
+    color: var(--SLATE);
+}
+
 .contakt-mail .link:hover {
     color: var(--kolo4);
 }
@@ -203,7 +207,7 @@ a:hover {
 
 .logo-highlight .link {
     text-decoration: none;
-    color: var(--SLATE);
+
 
 }
 
