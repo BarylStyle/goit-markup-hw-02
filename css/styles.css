@@ -203,6 +203,7 @@ a:hover {
 
 .logo-highlight .link {
     text-decoration: none;
+    color: var(--SLATE);
 
 }
 
