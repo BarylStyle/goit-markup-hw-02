@@ -192,7 +192,7 @@ a:hover {
     color: var(--first-color-text);
 }
 
-.list .link:active {
+.list .link:visited {
     color: var(--kolo4)
 }
 
