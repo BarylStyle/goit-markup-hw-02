@@ -123,15 +123,14 @@ a:hover {
 
 }
 
-.page-footer {
-    color: var(--cloud);
-}
+
 
 .span {
     color: var(--first-color-text);
 }
 
 .page-footer {
+    color: var(--cloud);
     background-color: var(--first-color-text);
 }
 
@@ -201,5 +200,11 @@ a:hover {
 
 .logo-highlight .link {
     text-decoration: none;
+
+}
+
+.paragraph-footer {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 
 }
