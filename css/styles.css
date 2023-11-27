@@ -101,13 +101,12 @@ a:hover {
     color: var(--SLATE);
 }
 
-.contakt-mail .link:hover {
-    color: var(--kolo4);
-}
-
+.contakt-mail .link:hover,
 .contakt-mail .link:active {
     color: var(--kolo4);
 }
+
+
 
 .heading {
     color: var(--first-color-text);
