@@ -246,3 +246,12 @@ a:hover {
     color: var(--SLATE);
 
 }
+
+.section-h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--first-color-text);
+}
