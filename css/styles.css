@@ -188,12 +188,7 @@ a:hover {
     color: var(--SLATE);
 }
 
-.link {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--SLATE);
-}
+
 
 .logo {
     font-size: 18px;
@@ -204,7 +199,8 @@ a:hover {
 
 
 
-.list .link:hover .list:focus {
+.list .link:hover,
+.list .link:focus {
     color: var(--Ocean);
 }
 
