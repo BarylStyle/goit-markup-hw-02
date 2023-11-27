@@ -172,7 +172,7 @@ a:hover {
 
 }
 
-.all:focus {
+.all:active {
     color: var(--color-white);
     background-color: var(--Ocean);
 }
