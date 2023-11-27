@@ -268,6 +268,6 @@ a:hover {
     background-color: var(--kolo4);
 }
 
-.list .link:first {
+.list .link:focus {
     color: var(--first-color-text);
 }
