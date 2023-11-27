@@ -272,3 +272,7 @@ a:hover {
 .button-first-section:focus {
     background-color: var(--kolo4);
 }
+
+.contakt-mail {
+    color: var(--SLATE);
+}
