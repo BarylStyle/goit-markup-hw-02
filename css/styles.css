@@ -267,3 +267,7 @@ a:hover {
 .button-first-section:focus {
     background-color: var(--kolo4);
 }
+
+.list link {
+    color: var(--first-color-text);
+}
