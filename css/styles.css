@@ -204,8 +204,7 @@ a:hover {
 
 
 
-.list .link:hover,
-.list .link:focus {
+.list .link:hover .list:focus {
     color: var(--Ocean);
 }
 
