@@ -196,8 +196,9 @@ a:hover {
     color: var(--kolo4)
 }
 
-.list .link:hover {
-    color: var(--kolo4);
+.list .link:hover,
+.list .link:focus {
+    color: var(--Ocean);
 }
 
 .logo-highlight .link {
@@ -268,8 +269,4 @@ a:hover {
 
 .button-first-section:focus {
     background-color: var(--kolo4);
-}
-
-.list .link:focus {
-    color: var(--first-color-text);
 }
