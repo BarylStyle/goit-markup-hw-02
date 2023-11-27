@@ -1,6 +1,6 @@
 :root {
     --first-color-text: #2E2F42;
-    --second-color-text: #4D5AE5;
+
     --color-white: #ffffff;
     --iris: #4D5AE5;
     --Ocean: #404BBF;
@@ -49,7 +49,7 @@ a:hover {
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase;
-    color: var(--second-color-text);
+    color: var(--iris);
     font-style: normal;
 
 
@@ -69,7 +69,7 @@ a:hover {
 }
 
 .highlight {
-    color: var(--second-color-text);
+    color: var(--iris);
 }
 
 .list {
@@ -85,7 +85,7 @@ a:hover {
 
 
 .list:hover {
-    color: var(--second-color-text);
+    color: var(--iris);
 }
 
 .contact {
