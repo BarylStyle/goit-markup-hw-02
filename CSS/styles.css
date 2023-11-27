@@ -263,3 +263,7 @@ a:hover {
 .our-team {
     background-color: var(--color-white);
 }
+
+.button-first-section:focus {
+    background-color: var(--kolo4);
+}
