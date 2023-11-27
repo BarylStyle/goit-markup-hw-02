@@ -255,3 +255,11 @@ a:hover {
     text-transform: capitalize;
     color: var(--first-color-text);
 }
+
+.four-section {
+    background-color: var(--cloud);
+}
+
+.our-team {
+    background-color: var(--color-white);
+}
