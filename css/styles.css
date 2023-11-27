@@ -195,9 +195,7 @@ a:hover {
     color: var(--SLATE);
 }
 
-.list .link:visited {
-    color: var(--kolo4)
-}
+
 
 .list .link:hover,
 .list .link:focus {
