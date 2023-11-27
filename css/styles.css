@@ -83,6 +83,10 @@ a:hover {
     text-decoration: none;
 }
 
+.list:focus {
+    color: var(--first-color-text);
+}
+
 .list:hover {
     color: var(--second-color-text);
 }
