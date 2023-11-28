@@ -129,17 +129,7 @@ button:hover {
     background-color: var(--first-color-text);
 }
 
-.logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: var(--iris);
-    font-style: normal;
-}
+
 
 .logo-highlight {
     color: var(--first-color-text);
@@ -266,4 +256,16 @@ button:hover {
 
 .contakt-mail {
     color: var(--SLATE);
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--iris);
+    font-style: normal;
 }
