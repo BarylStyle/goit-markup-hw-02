@@ -17,20 +17,17 @@ body {
     line-height: 1.6;
 }
 
-header {
+.main-section {
     background-color: var(--color-white);
 }
 
-a {
-    text-decoration: none;
-}
 
-button {
+.all {
     color: var(--color-white);
     background-color: var(--iris);
 }
 
-button:hover {
+.all:hover {
     background-color: var(--Ocean);
 
 }
@@ -102,8 +99,7 @@ button:hover {
 .heading {
     color: var(--first-color-text);
     font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 1.2;
     letter-spacing: 0.02em;
 
@@ -201,6 +197,7 @@ button:hover {
 }
 
 .first-section-h {
+    font-weight: 500;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -216,14 +213,6 @@ button:hover {
     letter-spacing: 0.04em;
     cursor: pointer;
 
-}
-
-.section-h {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--first-color-text);
 }
 
 .paragraph-main {
@@ -257,6 +246,7 @@ button:hover {
 
 .contakt-mail {
     color: var(--SLATE);
+    font-weight: 400;
 }
 
 .logo {
